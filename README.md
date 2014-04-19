@@ -35,4 +35,5 @@ Records your drinking activity since 2014.
   - style:
   - fix:
   - test:
+  - docs:
   - Merge 
